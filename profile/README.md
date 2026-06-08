@@ -28,4 +28,4 @@ Our lab is led by **Prof. Richard Bowden** and focuses on computer vision, machi
 
 ## 3D Pose / Skeleton Uplift
 
-* [skeleton_3d_uplift] 3D skeleton uplift utility for MediaPipe-based body/hand reconstruction from webcam or single video, `Code`. [[Code](https://github.com/ivashmak/skeleton_3d_uplift)]
+* [skeleton_3d_uplift] [Improving 3D Pose Estimation For Sign Language](https://ieeexplore.ieee.org/abstract/document/10193629) 3D skeleton uplift utility for MediaPipe-based body/hand reconstruction from webcam or single video, `Code`. [[Code](https://github.com/ivashmak/skeleton_3d_uplift)]
